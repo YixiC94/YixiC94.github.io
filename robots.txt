@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YiXiC94.github.io/sitemap.xml
+Sitemap: https://yixichen.me/sitemap.xml
