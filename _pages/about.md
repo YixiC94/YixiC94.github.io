@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Columbia Business School</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_yixi.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 5th-year Ph.D. candidate in Management (Organization Theory) at Columbia Business School. I received my M.A. in Social Sciences (Sociology) from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research sits at the intersection of stigma, narrative, and evaluation. I ask how individuals strategically present their stigmatized identities in evaluative settings and how stigmatized identities can shift from being perceived as liabilities to being seen as assets. In my dissertation,  I examine two important yet understudied populations--entrepreneurs with incarceration histories and those with neurodivergent conditions. I examine how these founders strategically construct and communicate their identity narratives to investors and how different identity disclosure strategies shape perceptions of legitimacy, distinctiveness, and worth. I leverage experiments combined with interviews, surveys, and computational text analysis to uncover how founders’ stigma disclosure strategies shape audience evaluations. Beyond my dissertation, I study how individuals present their lower social class and gender identities and the consequences on their professional networks and performances. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Columbia, I worked as a Senior Analyst at Mastercard International (New York and Shanghai) and as a pre-doctoral researcher at the Berkeley Cultural Lab. Outside of work, I enjoy playing fetch with my dog in Central Park, traveling, and reading science fiction.
