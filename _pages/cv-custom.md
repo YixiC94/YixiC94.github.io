@@ -1,13 +1,7 @@
 ---
-layout: default
+layout: cv-custom
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
 ---
-
-<div class="post">
-  <object data="{{ '/assets/pdf/Yixi Chen_CV.pdf' | relative_url }}" width="100%" height="1200px" type="application/pdf">
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/assets/pdf/Yixi Chen_CV.pdf' | relative_url }}">Download PDF</a>.</p>
-  </object>
-</div>
