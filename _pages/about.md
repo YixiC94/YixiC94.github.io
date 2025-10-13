@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Columbia Business School</a>
+subtitle: <a href='#'></a>
 
 profile:
   align: right
