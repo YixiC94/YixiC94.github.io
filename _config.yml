@@ -7,13 +7,13 @@ first_name: Yixi
 middle_name: 
 last_name: Chen
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  email: YiChen26 at gsb dot columbia dot edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-keywords:  stigma, narrative, incarceration, neurodivergent, interviews # add your own keywords or leave empty
+keywords: Yixi Chen, stigma, narrative, incarceration, neurodivergent, interviews # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: profile_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
