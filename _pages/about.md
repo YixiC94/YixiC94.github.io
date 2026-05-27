@@ -25,11 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 5th-year Ph.D. candidate in Management (Organization Theory) at Columbia Business School. I received my M.A. in Social Sciences (Sociology) from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. 
+I am a 5th-year Ph.D. candidate in Management (Organization Theory) at Columbia Business School. 
 
-My research sits at the intersection of **stigma**, **narrative**, and **social** **evaluation**. Specifically, I propose the concept of *stigma as distinction* to explain how stigmatized identities become competitive advantages in evaluative settings that reward differentiation. I investigate the forms and consequences of revealing versus concealing devalued identities, such as lower social class, incarceration records, and neurodivergence, across contexts ranging from elite education to entrepreneurship. I examine conditions under which revealing stigma in venture narratives, counterintuitively, increases venture distinctiveness and worth, rather than undermining them. I use a mixed-method approach, combining experiments with interviews, computational text analysis, and surveys. 
+My research sits at the intersection of **stigma**, **narrative**, and **social** **evaluation**. Specifically, I propose the concept of *stigma as distinction* to explain how stigmatized identities become competitive advantages in evaluative settings that reward differentiation, such as entrepreneurship. I investigate the forms and consequences of revealing versus concealing devalued identities, such as neurodivergence, criminal records, and lower social class. I use a mixed-method approach, combining experiments with interviews, computational text analysis, and surveys. 
 
-Before coming to Columbia, I worked as a Senior Analyst at Mastercard International (New York and Shanghai) and as a pre-doctoral researcher at the Berkeley Cultural Lab. Outside of work, I enjoy playing fetch with my dog in Central Park, traveling, and reading science fiction. 
+Before coming to Columbia, I worked as a Senior Analyst at Mastercard International (New York and Shanghai) and as a pre-doctoral researcher at the Berkeley Cultural Lab. I received my M.A. in Social Sciences (Sociology) from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. Outside of work, I enjoy playing fetch with my dog in Central Park, traveling, and reading science fiction. 
+
+I will be on the 2026-27 job market. 
 
 ### Contact
 Feel free to contact me at: YiChen26 at gsb dot columbia dot edu
