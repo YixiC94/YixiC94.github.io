@@ -29,9 +29,9 @@ I am a 5th-year Ph.D. candidate in Management (Organization Theory) at Columbia 
 
 My research sits at the intersection of **stigma**, **narrative**, and **social** **evaluation**. Specifically, I propose the concept of *stigma as distinction* to explain how stigmatized identities become competitive advantages in evaluative settings that reward differentiation, such as entrepreneurship. I investigate the forms and consequences of revealing versus concealing devalued identities, such as neurodivergence, criminal records, and lower social class. I use a mixed-method approach, combining experiments with in-depth interviews, computational text analysis, and surveys. 
 
-Before coming to Columbia, I worked as a pre-doctoral researcher at the Berkeley Cultural Lab and Senior Analyst at Mastercard International (New York and Shanghai). I received my M.A. in Sociology from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. 
+Before coming to Columbia, I worked as a Senior Analyst at Mastercard International (New York and Shanghai). I received my M.A. in Sociology from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. 
 
-I will be on the 2026-27 job market. 
+I will be on the **2026-2027** job market. 
 
 ### Contact
 Feel free to contact me at: YiChen26 at gsb dot columbia dot edu
