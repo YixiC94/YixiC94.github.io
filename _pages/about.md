@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 5th-year Ph.D. candidate in Management (Organization Theory) at [Columbia Business School][https://github.com/user/repo](https://business.columbia.edu/post-grad/people/yixi-chen). 
+I am a 5th-year Ph.D. candidate in Management (Organization Theory) at [Columbia Business School](https://business.columbia.edu/post-grad/people/yixi-chen). 
 
 My research sits at the intersection of **identity**, **social** **evaluation**, and **social** **networks**. In my dissertation, I propose the concept of *stigma as distinction* to examine when and how stigmatized identities can shift from being mere liabilities to potential assets in entrepreneurial evaluation. Specifically, I investigate the forms and consequences of revealing versus concealing devalued identities, such as neurodivergence, criminal records, and lower social class, in entrepreneurship and education contexts. I use a mixed-method approach, combining experiments with in-depth interviews, computational text analysis, and surveys. 
 
