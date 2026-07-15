@@ -27,7 +27,9 @@ latest_posts:
 
 I am a 5th-year Ph.D. candidate in Management (Organization Theory) at [Columbia Business School](https://business.columbia.edu/post-grad/people/yixi-chen). I will be on the 2026-2027 job market. 
 
-My research sits at the intersection of **identity**, **social** **evaluation**, **entrepreneurship**, and **social** **networks**. In my dissertation, I propose the concept of *stigma as distinction* to examine when and how stigmatized identities can shift from being mere liabilities to potential assets in entrepreneurial evaluation. Specifically, I investigate the forms and consequences of revealing versus concealing devalued identities, such as neurodivergence, criminal records, and lower social class, in entrepreneurship and organizational contexts. I use a mixed-method approach, combining experiments with in-depth interviews, computational text analysis, and surveys. 
+My research sits at the intersection of **identity**, **social** **evaluation**, **entrepreneurship**, and **social** **networks**. I study how the strategic presentation of stigmatized and marginalized identities amongst entrepreneurs and workers shapes evaluation, resource acquisition, and wellbeing. 
+
+Across contexts ranging from neurodivergence to incarceration records, my dissertation proposes the concept of *stigma as distinction* to examine when and how stigmatized identities can shift from being mere liabilities to potential assets in entrepreneurial evaluation. Methodologically, I bring together video and written-vignette experiments, Natural Language Processing, network analysis, and interviews.
 
 Before coming to Columbia, I worked as a Senior Analyst at Mastercard International (New York and Shanghai). I received my M.A. in Sociology from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. 
 
