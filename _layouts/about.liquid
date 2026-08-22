@@ -35,6 +35,9 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        <div class="latest-cv">
+          <a href="{{ '/cv/' | relative_url }}" class="btn-latest-cv" role="button">Latest CV</a>
+        </div>
       </div>
     {% endif %}
 
