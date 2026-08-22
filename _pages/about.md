@@ -29,7 +29,7 @@ I am a 5th-year Ph.D. candidate in Management (Organization Theory) at [Columbia
 
 My research sits at the intersection of **identity**, **social** **evaluation**, **entrepreneurship**, and **social** **networks**. I study how entrepreneurs and workers strategically present their stigmatized and marginalized identities, and how these choices shape resource acquisition, network formation, and well-being.
 
-Across contexts ranging from neurodivergence to incarceration records, my dissertation proposes the concept of *stigma as distinction*, explaining when and how revealing, rather than concealing, a stigmatized and deviant identity can become an unexpected source of advantage. Methodologically, I bring together video and written-vignette experiments, Natural Language Processing, network analysis, and in-depth interviews.
+Across contexts ranging from neurodivergence to incarceration records, my dissertation proposes the concept of *stigma as distinction*, explaining when and how revealing, rather than concealing, a stigmatized and deviant identity can become an unexpected source of advantage. Methodologically, I bring together video and written-vignette experiments, Natural Language Processing, network analysis, and in-depth interviews. This research has been selected as a **finalist of the 2026 INFORMS/Organization Science Best Dissertation Proposal Competition**.
 
 Before coming to Columbia, I worked as a Senior Analyst at Mastercard International (New York and Shanghai). I received my M.A. in Sociology from the University of Chicago and my B.A. in History and Economics from Mount Holyoke College. 
 
