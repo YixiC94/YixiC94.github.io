@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 5th-year Ph.D. candidate in Management (Organization Theory) at [Columbia Business School](https://business.columbia.edu/post-grad/people/yixi-chen). I will be on the 2026-2027 job market. 
+I am a 6th-year Ph.D. candidate in Management (Organization Theory) at [Columbia Business School](https://business.columbia.edu/post-grad/people/yixi-chen). I will be on the 2026-2027 job market. 
 
 My research sits at the intersection of **identity**, **social** **evaluation**, **entrepreneurship**, and **social** **networks**. I study how entrepreneurs and workers strategically present their stigmatized and marginalized identities, and how these choices shape resource acquisition, network formation, and well-being.
 
