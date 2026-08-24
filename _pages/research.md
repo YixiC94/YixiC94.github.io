@@ -12,7 +12,7 @@ _styles: >
   .post article h1 {
     margin-top: 2.5rem;
   }
-  .post article h1 {
+  .post article h2 {
     margin-top: 1rem;
   }
 
