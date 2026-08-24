@@ -31,7 +31,7 @@ _styles: >
 
 1. Chatman, J., **Chen, Y,** Choi V., & Gelfand M. Organizational Culture and Firm Performance under Volatility: Evidence from Glassdoor. (Forthcoming at *Academy of Management Discoveries*)
 
-2. Ingram, P., and **Chen, Y**. Paradox of Concealment: Incidence and Consequences of Concealing Lower-Class Identities. (Second-round R\&R at *American Journal of Sociology*)
+2. Ingram, P., and **Chen, Y**. Paradox of Concealment: Incidence and Consequences of Concealing Lower-Class Identities. (Second-round R&R at *American Journal of Sociology*)
 
 3. **Chen, Y.,** Hwang K, Ponce de Leon, R. Entrepreneurial Storytelling and Audience Evaluation among Stigmatized Entrepreneurs. (Under Review at *Strategic Management Journal*)
 
