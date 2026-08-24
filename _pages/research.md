@@ -22,7 +22,7 @@ _styles: >
   .post article h4:first-child {
     margin-top: 0;
   }
-  .post article h1 { font-size: 1.3rem; font-weight: 450; }
+  .post article h1 { font-size: 1.2rem; font-weight: 450; }
   .post article h2 { font-size: 1.15rem; font-weight: 450; }
   .post article h3 { font-size: 1rem; font-weight: 450; }
   .post article h4 { font-size: 0.875rem; font-weight: 450; }
