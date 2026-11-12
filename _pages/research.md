@@ -33,7 +33,7 @@ _styles: >
 
 2. Ingram, P., and **Chen, Y**. Paradox of Concealment: Incidence and Consequences of Concealing Lower-Class Identities. (Second-round R&R at *American Journal of Sociology*)
 
-3. **Chen, Y.,** Hwang K, Ponce de Leon, R. Entrepreneurial Storytelling and Audience Evaluation among Formerly Incarcerated Entrepreneurs. (Under Review at *Strategic Management Journal*)
+3. **Chen, Y.,** Hwang K, Ponce de Leon, R. Entrepreneurial Storytelling and Audience Evaluation among Formerly Incarcerated Entrepreneurs. (R&R at *Strategic Management Journal*)
 
 4. Doering, L., Sterling A., and **Chen, Y.,** Gender, Feedback, and Persistence: Evidence from Academic Research Grants. (Under Review at *American Sociological Review*)
 
